@@ -1,0 +1,13 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Runtime files
+tasks.json
+task-cli.log
+tasks.json.lock
+
+# Virtual environments
+.venv/
+venv/
+env/
